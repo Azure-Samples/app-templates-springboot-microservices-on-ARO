@@ -1,4 +1,7 @@
 # Spring Boot PetClinic Microservices Application Deployed to Azure Red Hat Openshift (ARO)
+> [!NOTE]
+> For Spring Boot applications, we recommend using Azure Spring Apps. See [Java Workload Destination Guide](https://aka.ms/javadestinations) for advice. 
+
 ## Description 
 In this sample app template, the PetClinic application (a Spring Boot based app) is containerized and deployed to an Azure RedHat Openshift (ARO) cluster secured by Azure Firewall
 
